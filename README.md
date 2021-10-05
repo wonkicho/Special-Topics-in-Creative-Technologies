@@ -10,3 +10,5 @@ Professor : Dasaem jung
 - week 3 : Deep learning basic
 
 - week 4: Deep learning for Audio datasets
+
+- week 5: Genre Classification
