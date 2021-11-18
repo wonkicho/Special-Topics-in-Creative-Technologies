@@ -14,3 +14,7 @@ Professor : Dasaem jung
 - week 5: Genre Classification
 
 - week 7: Genre Classification and Auto Tagging
+
+- week 8 : Midterm-exam
+
+- week 9 : Multi-class Auto Tagging
