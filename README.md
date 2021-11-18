@@ -12,3 +12,5 @@ Professor : Dasaem jung
 - week 4: Deep learning for Audio datasets
 
 - week 5: Genre Classification
+
+- week 7: Genre Classification and Auto Tagging
