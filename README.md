@@ -1,6 +1,6 @@
 # Special-Topics-in-Creative-Technologies
 
-2nd Semester in Art&TechKnowlege lecture
+2021-2 Art&TechKnowlege lecture
 
 lecture : Special-Topics-in-Creative-Technologies
 
@@ -18,3 +18,7 @@ Professor : Dasaem jung
 - week 8 : Midterm-exam
 
 - week 9 : Multi-class Auto Tagging
+
+- week 10 : Auto-encoder
+
+- week 11 : Sound Synthesizer with DDSP
